@@ -1,6 +1,6 @@
 {
   "name": "automata-email-verification",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "emailverification for automata",
   "main": "dist/index.bundle.js",
   "files": [
@@ -43,7 +43,7 @@
     "webpack-node-externals": "^3.0.0"
   },
   "dependencies": {
-    "automata-db": "^0.0.6",
+    "automata-db": "^0.0.10",
     "automata-utils": "^0.0.6",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
